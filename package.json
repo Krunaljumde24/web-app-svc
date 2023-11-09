@@ -1,0 +1,14 @@
+{
+  "name": "web-app-svc",
+  "version": "1.0.0",
+  "description": "This is web application service, mainly for creating RESTFul API for our screens.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krunal Jumde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
